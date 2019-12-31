@@ -1,4 +1,4 @@
-# WaterMarkPageBg
+# 页面水印 类：WaterMarkPageBg
 最近公司发布保护个人隐私，内部公共信息不能外传的命令，因此做了一个水印的功能，分为页面水印以及图片水印两种</br>
 1.页面水印</br>
 页面水印封装代码在WaterMarkPageBg类里面:</br>
@@ -18,7 +18,7 @@
       
 
 
-# WaterMarkPictureBg
+# 图片水印 类：WaterMarkPictureBg
 2.图片水印</br>
 图片水印封装代码在WaterMarkPictureBg类里面:</br>
   调用方法为：</br>
